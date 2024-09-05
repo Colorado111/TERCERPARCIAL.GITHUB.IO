@@ -1,0 +1,121 @@
+body{
+    background-image: url(otro.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #ebe709;
+    color: rgb(6, 37, 212);
+    text-align: center;
+    padding: 5px;
+}
+.container {
+    padding: 30px;
+}
+.images img {
+    width: 600px;
+    max-width: 900px;
+    margin: 50px;
+}
+.video {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+footer {
+    background-color: #c2e916;
+    color: rgb(6, 37, 212);
+    text-align: center;
+    padding: 15px 30px;
+    
+}
+
+.boton{background-color: rgb(232, 248, 0);
+    border-radius: 15px;
+    color: brown;
+    padding: 35px 30px;
+    text-align: left;
+    font-size: 20px;
+    transition:background-color 2s ease;
+     }
+    .boton:hover{
+    background-color: rgb(221, 188, 3);
+    color: rgb(194, 10, 231);
+    } 
+
+
+    .boton{background-color: rgb(13, 233, 203);
+        border-radius: 35px;
+        color: rgb(21, 5, 165);
+        padding: 15px 30px;
+        text-align: left;
+        font-size: 20px;
+        transition:background-color 2s ease;
+         }
+
+    .boton{background-color: rgb(16, 215, 230);
+        border-radius: 35px;
+        color: rgb(74, 10, 192);
+        padding: 15px 30px;
+        text-align: left;
+        font-size: 20px;
+        transition:background-color 2s ease;
+         }
+
+         .boton{background-color: rgb(6, 209, 209);
+            border-radius: 35px;
+            color: rgb(63, 14, 197);
+            padding: 15px 30px;
+            text-align: left;
+            font-size: 20px;
+            transition:background-color 2s ease;
+             }
+
+             .boton{background-color: rgb(3, 218, 226);
+                border-radius: 35px;
+                color: rgb(20, 9, 170);
+                padding: 15px 30px;
+                text-align: left;
+                font-size: 20px;
+                transition:background-color 2s ease;
+                 }
+
+                
+
+
+                .imagenovalada{
+                    border-radius: 30%;
+                }
+                .galeria{
+                    margin: 100px;
+                    border: 1px solid rgb(44, 10, 235);
+                    width: 210px;
+                    float: left;
+                }
+                .galeria:hover{
+                    border: 5px solid rgb(228, 64, 64);
+                }
+                
+                .imagen{
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 25%;
+                }
+                .textointerior{
+                   background-color: rgb(238, 77, 77);
+                   text-align: right;
+                   padding: 20px;
+                   color:white
+                }
+
+                
+
